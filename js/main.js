@@ -96,7 +96,7 @@ app.ticker.add(function() {
 
 var style = new PIXI.TextStyle({
     fontFamily: 'Helvetica',
-    fontSize: 200,
+    fontSize: 100,
     fontWeight: 'bold',
     fill: ['#000000'], // gradient
     dropShadow: true,
